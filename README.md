@@ -44,7 +44,8 @@ To run the simulation on any Windows system without needing Python or libraries,
    pip install pyinstaller
 2. Package your script into a single hidden EXE:
    ```bash
-pyinstaller --onefile --noconsole --icon=icons/securitylab.ico Microsoft_Antivirus.py
+   pyinstaller --onefile --noconsole --icon=icons/securitylab.ico Microsoft_Antivirus.py
+
 
 # Install required libraries
 pip install -r requirements.txt
