@@ -1,16 +1,16 @@
  🛡️ KeySentry – Behavioral Keylogger Simulation (Academic Project)
 
-> ⚠️ Disclaimer: This tool is strictly for **academic, ethical hacking, and cybersecurity simulation purposes only. Do not deploy it on any system without explicit permission.
+># ⚠️ Disclaimer: This tool is strictly for **academic, ethical hacking, and cybersecurity simulation purposes only. Do not deploy it on any system without explicit permission.
 
 
 
- 📚 Introduction
+# 📚 Introduction
 
 KeySentry is a simulated behavioral keylogger designed as part of a final year cybersecurity project. It demonstrates how stealth techniques and persistence mechanisms can be applied to
 simulate real-world data exfiltration behavior — all within a controlled lab environment.
 
 
-✨ Features
+#✨ Features
 
 | Module                        | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
