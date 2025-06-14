@@ -10,7 +10,7 @@ KeySentry is a simulated behavioral keylogger designed as part of a final year c
 simulate real-world data exfiltration behavior — all within a controlled lab environment.
 
 
-#✨ Features
+# ✨ Features
 
 | Module                        | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
